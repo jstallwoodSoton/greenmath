@@ -18,7 +18,7 @@ async function get_animal_data(URL) {
 
 }
 
-get_animal_data("greenmath/json/animaldata.json");
+get_animal_data("./json/animaldata.json");
 
 function get_random_animal() {
     let animals = Object.keys(animal_json);
