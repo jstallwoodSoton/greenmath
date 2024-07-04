@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="./css/main.css">
+        <link rel="stylesheet" href="./css/bc.css">
+
+        <script src="./js/bayesian_creatures.js"></script>
+
+        
+    </head>
+    <body>
+        <img src="./img/repeat_paw.png" style="position: fixed; width: 100vw; opacity: 0.1; z-index: -1; background-repeat: repeat; background-size:cover;">
+        <div style="display: flex; flex-direction: column; align-items: center; justify-content: center;">
+            <img src="./img/bc-logo.png" style="width: 25vw;">
+            <h2>How to play</h2>
+            <ol style="font-size: 3vmin;">
+                <li>Use the training data and probability tables to answer the questions.</li>
+                <li>Every correct guess gets you a point.</li>
+                <li>Every incorrect guess gives NadiaBot a point.</li>
+                <li>The first to five points wins!</li>
+            </ol>
+        </div>
+        <div style="display: flex; flex-direction: row">
+            <div style="display: flex; flex-direction: column; width: 50vw; align-items: center; margin-right: 2vmin;">
+                <div style="background-color: var(--d-green); padding: 4vmin; border-radius: 5px; margin-top: 2vmin; margin-bottom: 2vmin; display: flex; flex-direction: column; align-items: center; padding-bottom: 1vmin;">
+                    <table id="train_data_tbl"></table>
+                    <div style="display: flex; flex-direction: row; justify-content: center;">
+                        <label style="font-weight: bold; color: white;">Select a probability table </label><select id="prob_tbl_select"></select><button onclick="display_probability_table()">Load table</button>
+                    </div>
+                    <div id="prob_tbl_div"></div>
+                </div>
+            </div>
+            <div style="display: flex; flex-direction: column; width: 40vw; justify-content: center; margin-right: 2vmin;">
+                <div style="display: flex; flex-direction: row; justify-content: center;">
+                    <div style="display: flex; flex-direction: row; background-color: var(--blue); border: 4px solid white; border-radius: 15px; font-weight: bold; font-size: 3vmin; margin-right: 2vmin;">
+                        <label>Your<br>score</label><label id="player_score" style="align-self: center; background-image: url('./img/star.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 5vmin; height: 5vmin; text-align: center; line-height: 5vmin;">0</label>
+                    </div>
+                    <div style="display: flex; flex-direction: row; background-color: var(--blue); border: 4px solid white; border-radius: 15px; font-weight: bold; font-size: 3vmin;">
+                        <label>NadiaBot's<br>score</label><label style="align-self: center; background-image: url('./img/star.png'); background-size: cover; background-repeat: no-repeat; background-position: center; width: 5vmin; height: 5vmin; text-align: center; line-height: 5vmin;" id="nadia_score">0</label>
+                    </div>
+                </div>
+                <div style="display: flex; flex-direction: row; justify-content: center;">
+                    <button id="ask_btn" onclick="setup_question()" style="width: 20vw; height: 15vh; font-size: 4vmin;" >Ask a question</button>
+                </div>
+                <div id="question_panel" style="flex-direction: column; align-items: center; justify-content: center; align-self: center; background-color: white; border-radius: 5px; width: 30vw;" hidden>
+                    <label id="question_text"></label>
+                    <div id="button_div">
+                        <button id="true_btn" style="width: 12vmin; font-size: 3vmin;">True</button>
+                        <button id="false_btn" style="width: 12vmin; font-size: 3vmin;">False</button>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </body>
+</html>
