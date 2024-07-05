@@ -1,0 +1,300 @@
+{  "African Forest Elephant": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Critical"
+  },
+  "Amur Leopard": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Angel Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Atlantic Cod": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Baby Tiger Quoll": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Baiji": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Bearded Vulture": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Bison": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Critical"
+  },
+  "Black Jaguar": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Black Rhino": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Critical"
+  },
+  "Blue Whale": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Blue-Throated Macaw": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Critical"
+  },
+  "Bluefin Tuna": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Bornean Orangutan": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Critical"
+  },
+  "Brush Tailed Rock Wallaby": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "California Condor": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Cape Vulture": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Capercaillie": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Cerulean Warbler": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Cheetah": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Chimpanzee": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Endangered"
+  },
+  "Chinese Paddlefish": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Corncrake": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Curlew": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Dagger Nose Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Dalmatian Pelican": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Dugong": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Dusky Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Eastern Indigo Snake": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Egyptian Vulture": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Emperor Penguin": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "European Eel": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Flying Fox": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Critical"
+  },
+  "Fruit Dove": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Endangered"
+  },
+  "Galapagos Penguin": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Gentoo Penguin": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Giant Manta Ray": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Giant Panda": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Gibbon": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Endangered"
+  },
+  "Gilbert's Potoroo": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Critical"
+  },
+  "Gorilla": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Critical"
+  },
+  "Great Spotted Kiwi": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Greater Bilby": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Green Sea Turtle": {
+     "Diet":"Herbivore","Domain":"Water","Status":"Endangered"
+  },
+  "Grevy's Zebra": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Endangered"
+  },
+  "Guanay Cormorant": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Hawaiian Crow": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Critical"
+  },
+  "Hawksbill Sea Turtle": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Critical"
+  },
+  "Hen Harrier": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Herpy Eagle": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Hippopotamus": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Humphead Wrasse": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Humpback Dolphin": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Hyacinth Macaw": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Endangered"
+  },
+  "Kafue Flats Lechwe": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Kakapo": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Critical"
+  },
+  "Koala": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Layson Albatross": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Leatherback Sea Turtle": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Lesser Long-Nosed Bat": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Critical"
+  },
+  "Marine Iguana": {
+     "Diet":"Herbivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Mekong Giant Catfish": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Critical"
+  },
+  "Monarch Butterfly": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Endangered"
+  },
+  "Monito Del Monte": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Critical"
+  },
+  "Murrelete": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Nightingale": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Critical"
+  },
+  "Northern Spotted Owl": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Okavango Lion Cubs": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Philippine Crocodile": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Endangered"
+  },
+  "Philippine Eagle": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Polar Bear": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Puffin": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Queen Charlotte Goshawk": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Quokka": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Ragged-Tooth Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Vulnerable"
+  },
+  "Red Kite": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Red Wolf": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Royal Bengal Tiger": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Endangered"
+  },
+  "Ruppell's Vulture": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Saw Fish": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Scalloped Hammerhead Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Sea Lion": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Sea Otter": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Secretary Bird": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Sei Whale": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Endangered"
+  },
+  "Skylark": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Snowy Owl": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Striped Hyena": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Critical"
+  },
+  "Sun Bear": {
+     "Diet":"Omnivore","Domain":"Land","Status":"Vulnerable"
+  },
+  "Swift Parrot": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Critical"
+  },
+  "Tiger Shark": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Turtle Dove": {
+     "Diet":"Herbivore","Domain":"Air","Status":"Vulnerable"
+  },
+  "Vaquita": {
+     "Diet":"Carnivore","Domain":"Water","Status":"Critical"
+  },
+  "Whale Shark": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Endangered"
+  },
+  "White-Rumped Vulture": {
+     "Diet":"Carnivore","Domain":"Air","Status":"Critical"
+  },
+  "Wild Water Buffalo": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Endangered"
+  },
+  "Willow Tit": {
+     "Diet":"Omnivore","Domain":"Air","Status":"Endangered"
+  },
+  "Wombat": {
+     "Diet":"Herbivore","Domain":"Land","Status":"Endangered"
+  },
+  "Yellow-Eyed Penguin": {
+     "Diet":"Carnivore","Domain":"Land","Status":"Endangered"
+  },
+  "Zebra Pleco": {
+     "Diet":"Omnivore","Domain":"Water","Status":"Endangered"
+  }}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <title>GMFML - Bayesian Creatures Game</title>
+
+        <link rel="stylesheet" href="./css/main.css">
+        <link rel="stylesheet" href="./css/bc.css">
+
+        <script src="./js/bayesian_creatures.js"></script>
+
+        
+    </head>
+    <body>
+        <div class="display-column td-card">
+            <div class="td-btn-div">
+                <button onclick="change_td_counter(-1)"><</button><h1>Training Data</h1><button onclick="change_td_counter(1)">></button>
+            </div>
+            <h2 id="td-animal-name" style="font-size: 3vmin; text-wrap: wrap;">Animal Name</h2>
+            <img id="td-animal-img" class="td-animal-portrait" src="./img/bc-logo.png">
+            <hr>
+            <div class="td-animal-data">
+                <table class="td-data-tbl">
+                    <tr>
+                        <th>Diet</th><td id="td-animal-diet"></td>
+                    </tr>
+                    <tr>
+                        <th>Domain</th><td id="td-animal-domain"></td>
+                    </tr>
+                    <tr>
+                        <th>Status</th><td id="td-animal-status"></td>
+                    </tr>
+                </table>
+
+            </div>
+        </div> 
+        <div class="display-column td-probs">
+            <div class="td-btn-div">
+                <button onclick="change_prob_tbl_counter(-1)"><</button><h1>Training Data Probabilities</h1><button onclick="change_prob_tbl_counter(1)">></button>
+            </div>
+            <h2 id="prob-tbl-name" style="font-size: 3vmin; text-wrap: wrap;">Probability Table</h2>
+            <div class="prob-div">
+                <table id="prob-data-tbl" class="prob-data-tbl"></table>
+            </div>
+        </div> 
+        <div class="display-column td-quest">
+            <div class="scores">
+                <h3>Your score</h3>
+                <label id="player_score_lbl">0</label>
+                <h3>NadiaBOT score</h3>
+                <label id="bot_score_lbl">0</label>
+            </div>
+            <fieldset class="question">
+                <legend>Question</legend>
+                <h4 id="question_txt">Test</h4>
+            </fieldset>
+            <fieldset class="nadiabot">
+                <legend>NadiaBOT</legend>
+                <h4 id="nadia_txt">Test</h4>
+            </fieldset>
+            <div class="q-btn-div">
+                <button id="true">True</button><button id="false">False</button>
+            </div>
+            <fieldset class="answer">
+                <legend>Answer</legend>
+                <h4 id="answer_txt"></h4>
+            </fieldset>
+        </div> 
+    </body>
+</html>
