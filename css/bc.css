@@ -23,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--d-green);
-    background-image: url("https://github.com/jstallwoodSoton/greenmath/blob/ed87c40d1e558ae5d43342b4fc5de19cbc6fd0e8/bc-logo.png");
+    background-image: url("../bc-logo.png");
     background-size: 20vmin;
     background-repeat: repeat;
 }
