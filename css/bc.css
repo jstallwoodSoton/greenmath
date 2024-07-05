@@ -23,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--d-green);
-    background-image: url("../img/bc-logo.png");
+    background-image: url("./bc-logo.png");
     background-size: 20vmin;
     background-repeat: repeat;
 }
@@ -165,7 +165,7 @@ hr {
 .scores label {
     width: 5vb;
     height: 5vmin;
-    background-image: url("../img/star.png");
+    background-image: url("./star.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: 3px solid var(--blue);
