@@ -23,7 +23,7 @@ body {
     align-items: center;
     justify-content: center;
     background-color: var(--d-green);
-    background-image: url("./bc-logo.png");
+    background-image: url("bc-logo.png");
     background-size: 20vmin;
     background-repeat: repeat;
 }
