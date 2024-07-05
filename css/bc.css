@@ -165,7 +165,7 @@ hr {
 .scores label {
     width: 5vb;
     height: 5vmin;
-    background-image: url("./star.png");
+    background-image: url("https://github.com/jstallwoodSoton/greenmath/blob/dd8cf16eef656a6f03d3ce6d71173273c0c68d1d/star.png");
     background-size: contain;
     background-repeat: no-repeat;
     border: 3px solid var(--blue);
