@@ -167,7 +167,7 @@ function update_training_data_display() {
     document.getElementById("td-animal-diet").innerHTML = animal_diet;
     document.getElementById("td-animal-domain").innerHTML = animal_domain;
     document.getElementById("td-animal-status").innerHTML = animal_status;
-    document.getElementById("td-animal-img").src = "./img/animal_portraits/" + animal_portrait;
+    document.getElementById("td-animal-img").src = "./animal_portraits/" + animal_portrait;
 }
 
 function change_td_counter(amount) {
